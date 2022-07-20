@@ -7,3 +7,6 @@ The scripts are used to:
 a) clean out abnormal values
 b) transform gaze coordinates, since a large proportion falls outside the device bounds
 c) implement an unsupervised-learning algorithm to detect attention shifts from the keyboard area, to the text editing area.
+
+
+[1] Jiang, X., Li, Y., Jokinen, J. P. P., Hirvola, V., Oulasvirta, A., & Ren, X. 2020.How We Type: Eye and Finger Movement Strategies in Mobile Typing.In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20).
